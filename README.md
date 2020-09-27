@@ -1,4 +1,4 @@
-# sentiment_analysis
+# sentiment_analysis_bot
 
 - This is a twitter bot which performs sentiment analysis on tweets and replies with the type of review that is either positive or negative also with variability.
 - To use, reply to a tweet by @AnalyseBot and within a minute the bot will reply.
